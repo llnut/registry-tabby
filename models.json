@@ -101,5 +101,11 @@
       "https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q8_0.gguf"
     ],
     "sha256": "a2f82242ac5e465037cbf1ed754f04f0be044ee196e1589905f9e4dcd0e6559d"
+  },
+  {
+    "license_name": "Llama 2",
+    "license_url": "https://github.com/facebookresearch/llama/blob/main/LICENSE",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "name": "Llama2-Chinese-13b-Chat"
   }
 ]
